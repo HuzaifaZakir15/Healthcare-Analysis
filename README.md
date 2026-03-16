@@ -35,7 +35,7 @@ A four-page interactive Power BI report analyzing U.S. healthcare operations acr
 
 ### 1. Executive Summary
 
-<img src="screenshots/executive_summary.png" alt="Executive Summary" width="100%"/>
+<img src="image.png" alt="Executive Summary" width="100%"/>
 
 The top-level overview for leadership and stakeholders.
 
@@ -51,7 +51,7 @@ The top-level overview for leadership and stakeholders.
 
 ### 2. Hospital Analysis
 
-<img src="screenshots/hospital_analysis.png" alt="Hospital Analysis" width="100%"/>
+<img src="image(1).png" alt="Hospital Analysis" width="100%"/>
 
 Drills into facility-level performance across patient volume, expenses, and revenue.
 
@@ -68,7 +68,7 @@ Drills into facility-level performance across patient volume, expenses, and reve
 
 ### 3. Patient Analysis
 
-<img src="screenshots/patient_analysis.png" alt="Patient Analysis" width="100%"/>
+<img src="image(2).png" alt="Patient Analysis" width="100%"/>
 
 A patient-centric view of demographics, geography, and diagnosis patterns.
 
@@ -85,7 +85,7 @@ A patient-centric view of demographics, geography, and diagnosis patterns.
 
 ### 4. Payer–Provider Analysis
 
-<img src="screenshots/payer_provider.png" alt="Payer-Provider Analysis" width="100%"/>
+<img src="image(3).png" alt="Payer-Provider Analysis" width="100%"/>
 
 Revenue and receivables broken down by payer type and provider specialty.
 
@@ -161,7 +161,7 @@ us-healthcare-dynamics/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/us-healthcare-dynamics.git
+   git clone https://github.com/your-HuzaifaZakir15/us-healthcare-dynamics.git
    cd us-healthcare-dynamics
    ```
 
