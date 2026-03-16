@@ -204,6 +204,13 @@ The report is built on a healthcare dataset with the following key fields:
 ## License
 
 This project is for educational and portfolio purposes. All patient records are anonymized/simulated and do not represent real individuals.
+## 👤 Author
+
+**Huzaifa Zakir**  
+Final Year Student | Computer Science  
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/laiba-a2834227b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuzaifaZakir15)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](huzaifazalir356@gmail.com)
 
 ---
 
