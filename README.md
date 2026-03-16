@@ -51,7 +51,7 @@ The top-level overview for leadership and stakeholders.
 
 ### 2. Hospital Analysis
 
-<img src="image(1).png" alt="Hospital Analysis" width="100%"/>
+<img src="image (1).png" alt="Hospital Analysis" width="100%"/>
 
 Drills into facility-level performance across patient volume, expenses, and revenue.
 
