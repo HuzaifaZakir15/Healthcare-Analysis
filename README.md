@@ -68,7 +68,7 @@ Drills into facility-level performance across patient volume, expenses, and reve
 
 ### 3. Patient Analysis
 
-<img src="image(2).png" alt="Patient Analysis" width="100%"/>
+<img src="image (2).png" alt="Patient Analysis" width="100%"/>
 
 A patient-centric view of demographics, geography, and diagnosis patterns.
 
@@ -85,7 +85,7 @@ A patient-centric view of demographics, geography, and diagnosis patterns.
 
 ### 4. Payer–Provider Analysis
 
-<img src="image(3).png" alt="Payer-Provider Analysis" width="100%"/>
+<img src="image (3).png" alt="Payer-Provider Analysis" width="100%"/>
 
 Revenue and receivables broken down by payer type and provider specialty.
 
