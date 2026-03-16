@@ -2,7 +2,7 @@
 # 🏥 U.S. Healthcare Dynamics — Power BI Dashboard
 
 <p align="center">
-  <img src="screenshots/executive_summary.png" alt="Executive Summary Dashboard" width="100%"/>
+  <img src="image.png" alt="Executive Summary Dashboard" width="100%"/>
 </p>
 
  
